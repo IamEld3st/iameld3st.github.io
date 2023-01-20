@@ -34,6 +34,8 @@ Initial research shows that is is similar to I2C but its more likely this is act
 ![X360 RF Databus Logic Analyzer](/assets/images/x360-rf-databus-logicanalyzer.png)
 
 While looking avaliable commands from the previously linked project unfortunately those commands work only for the Older RF modules for Phat revisions of the 360, but I used the same command size and bruteforced some behaviour:
-![X360 RF Pico LED Test](/assets/videos/x360-rf-slim-led-test.webm)
+<video controls>
+  <source src="/assets/videos/x360-rf-slim-led-test.webm" type="video/webm">
+</video>
 
 That is it for now... I have been experimenting with other parts and will do more posts in the future.
