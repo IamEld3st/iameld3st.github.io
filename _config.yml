@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            IamEld3st
-tagline:          'Weeb developer'
+title:            Blog
+tagline:          'Sofware engineer blog'
 description:      'A website where I do stuff'
-url:              http://iameld3st.xyz
+url:              http://iameld3st.github.io
 baseurl:          /
 
 author:
-  name:           'IamEld3st'
-  url:            http://iameld3st.xyz
+  name:           'Andrzej Szczepaniak'
+  url:            http://iameld3st.github.io
 
 paginate:         5
 
